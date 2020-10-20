@@ -1,5 +1,5 @@
 var player1 = prompt("Enter first player's name:", "");
-var player2 = prompt("Enter secon player's name:", "");
+var player2 = prompt("Enter second player's name:", "");
 window.onload = function() {
 
 
